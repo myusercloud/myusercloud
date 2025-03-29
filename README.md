@@ -14,9 +14,15 @@
 
 
 ## 🎖️ GitHub Achievements 🏆
+![AI Generated README](https://readme-jokes.vercel.app/api?theme=radical)
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=myusercloud&theme=tokyonight&no-frame=true" />
 </div>
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 
 ## 📊 GitHub Stats:
 <div align="center">

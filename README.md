@@ -1,5 +1,5 @@
 <div align="center">
-  🎉 Welcome to My GitHub Universe! 🚀
+  <b>🎉 Welcome to My GitHub Universe! 🚀</b>
 </div>
 
 <table>

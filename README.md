@@ -10,7 +10,7 @@
 
 # 🎉 Welcome to My GitHub Universe! 🚀
 
-![Cool GIF]([[https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0yiKpGWv7eyAAEomUGrzqA&ust=1743357096013000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIC1nrjtr4wDFQAAAAAdAAAAABAE)](https://imgur.com/a/mZeHUO2))
+![Cool GIF](68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif)
 
 
 ## 🎖️ GitHub Achievements 🏆

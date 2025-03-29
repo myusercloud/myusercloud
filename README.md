@@ -1,5 +1,5 @@
 ### 🚀 About Me:
-- Hi, I’m Harrizon, @myusercloud 🌟
+- Hi, I’m **Harrizon**, @myusercloud 🌟
 - 🌱 Always eager to learn, build, and innovate!
 - 👯 Let’s collaborate on **Android Development, Data Science, or Web Development**!
 - 🌐 Passionate about **Tech, AI, and Open Source**.
@@ -12,9 +12,9 @@
 
 ![Cool GIF](68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966.gif)
 
-
-## 🎖️ GitHub Achievements 🏆
 ![AI Generated README](https://readme-jokes.vercel.app/api?theme=radical)
+## 🎖️ GitHub Achievements 🏆
+
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=myusercloud&theme=tokyonight&no-frame=true" />
@@ -41,6 +41,10 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,csharp,nodejs,mongodb,androidstudio,firebase" height="50" />
 </div>
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
 
 ---
 

@@ -50,6 +50,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/myusercloud/myusercloud/output/snake.svg" alt="Snake animation" />
+## 🚀 GitHub Stats:
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=myusercloud&show_icons=true&theme=dark&count_private=true)
 
-###
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=myusercloud&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=myusercloud&theme=dark)
+

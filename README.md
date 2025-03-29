@@ -14,7 +14,7 @@
 - 👯 Let’s collaborate on **Android Development, Data Science, or Web Development**!  
 - 🌐 Passionate about **Tech, AI, and Open Source**.  
 - 💡 Fun Fact: *"Coffee ☕ + Code 💻 = Happiness!"*  
-- 🎮 I also love gaming and hacking cool projects!  
+- 🎮 I also love ~~gaming~~ Coding and hacking cool projects!  
 
   </td>
     <td>

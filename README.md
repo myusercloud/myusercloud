@@ -5,7 +5,7 @@
 ## 👋 Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👨‍💻👩‍💻
 
 ### 🚀 About Me:
-- Hi, I’m Harrizon, @myusercloud 🌟
+- Hi, I’m Harrizon, @myuserclod 🌟
 - 🌱 Always eager to learn, build, and innovate!
 - 👯 Let’s collaborate on **Android Development, Data Science, or Web Development**!
 - 🌐 Passionate about **Tech, AI, and Open Source**.
@@ -16,18 +16,18 @@
 
 ## 🎖️ GitHub Achievements 🏆
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=myusercloud&theme=tokyonight&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=myuserclod&theme=tokyonight&no-frame=true" />
 </div>
 
 ## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myusercloud&show_icons=true&theme=radical&count_private=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusercloud&layout=compact&theme=radical" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=myuserclod&show_icons=true&theme=radical&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myuserclod&layout=compact&theme=radical" height="160" alt="Top Languages" />
 </div>
 
 ### 🔥 Contribution Streak 🔥
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myusercloud&theme=radical" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myuserclod&theme=radical" height="160" alt="GitHub Streak" />
 </div>
 
 ---
@@ -48,5 +48,3 @@
 </div>
 
 ---
-
-![Fun GIF](https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif)

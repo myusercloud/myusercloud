@@ -39,14 +39,12 @@
 
 ## 🛠️ Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,csharp,nodejs,mongodb,androidstudio,firebase" height="50" />
-</div>
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,csharp,nodejs,mongodb,androidstudio,firebase" height="50" /></div>
+  
 
 
 ---
+[![Harrizon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=myusercloud&bg_color=2d1a77&color=ffffff&line=ca1102&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📡 Connect with Me 🌍
 <div align="center">

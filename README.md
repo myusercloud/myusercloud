@@ -1,42 +1,45 @@
-# 👋 Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>!
+# 🎉 Welcome to My GitHub Universe! 🚀
+
+![Cool GIF](https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+
+## 👋 Hello, <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👨‍💻👩‍💻
 
 ### 🚀 About Me:
-- Hi, I’m **Harrizon**, @myusercloud
-- 🌱 Always eager to learn and collaborate on exciting projects. Let's build something amazing together!
-- 👯 Looking to collaborate on **Android Development, Data Science, or Web Development**.
-- 🌐 Specialized in **Web Development, Android Development, and Machine Learning**.
-- 📫 How to reach me: **lucasharrizon@gmail.com**
-- ⚡ Fun fact: *"The best part of the journey is that it ends."*
+- Hi, I’m Harrizon, @myusercloud 🌟
+- 🌱 Always eager to learn, build, and innovate!
+- 👯 Let’s collaborate on **Android Development, Data Science, or Web Development**!
+- 🌐 Passionate about **Tech, AI, and Open Source**.
+- 💡 Fun Fact: *"Coffee ☕ + Code 💻 = Happiness!"*
+- 🎮 I also love gaming and hacking cool projects!
 
 ---
 
-## 📊 GitHub Stats:
+## 🎖️ GitHub Achievements 🏆
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myusercloud&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusercloud&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=myusercloud&theme=tokyonight&no-frame=true" />
 </div>
 
-### 🔥 Contribution Streak
+## 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myusercloud&theme=tokyonight" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=myusercloud&show_icons=true&theme=radical&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusercloud&layout=compact&theme=radical" height="160" alt="Top Languages" />
+</div>
+
+### 🔥 Contribution Streak 🔥
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myusercloud&theme=radical" height="160" alt="GitHub Streak" />
 </div>
 
 ---
 
 ## 🛠️ Tech Stack:
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,csharp,nodejs,mongodb,androidstudio,firebase" height="50" />
 </div>
 
 ---
 
-## 📡 Connect with Me:
+## 📡 Connect with Me 🌍
 <div align="center">
   <a href="#"><img src="https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -45,3 +48,5 @@
 </div>
 
 ---
+
+![Fun GIF](https://media.giphy.com/media/l4FGpP4lxGGgK5CBW/giphy.gif)

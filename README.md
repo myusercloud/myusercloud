@@ -14,7 +14,7 @@
 - 👯 Let’s collaborate on **Android Development, Data Science, or Web Development**!  
 - 🌐 Passionate about **Tech, AI, and Open Source**.  
 - 💡 Fun Fact: *"Coffee ☕ + Code 💻 = Happiness!"*  
-- 🎮 I also love ~~gaming~~ Coding and hacking cool projects!
+- 🎮 I  love ~~gaming~~ Coding and hacking cool projects!
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.yt_gram/)
 
   </td>

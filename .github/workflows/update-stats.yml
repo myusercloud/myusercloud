@@ -1,0 +1,20 @@
+name: Update GitHub Stats (Real-Time)
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"  # every 4 hours
+  workflow_dispatch:       # allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+
+      - name: Fetch Live GitHub Stats
+        uses: yihong0618/github-readme-stats@master
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          user_name: myusercloud
+          commit_message: "♻️ update: refreshed GitHub stats"

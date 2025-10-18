@@ -45,9 +45,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myusercloud&show_icons=true&theme=radical&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusercloud&layout=compact&theme=radical" height="165" alt="Top Languages" />
+
+![Real-Time GitHub Stats](https://raw.githubusercontent.com/myusercloud/myusercloud/output/generated/overview.svg)
+![Real-Time Top Langs](https://raw.githubusercontent.com/myusercloud/myusercloud/output/generated/languages.svg)
+
 </div>
+
 
 ---
 

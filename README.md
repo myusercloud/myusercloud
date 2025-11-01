@@ -9,13 +9,13 @@
     <td>
       
 ### 🚀 About Me:
-- Hi, I’m **Harrizon**, @myusercloud 🌟  
+- Hi, I’m **Harrizon Lucas**, @myusercloud 🌟  
 - 🌱 Always eager to learn, build, and innovate!  
 - 👯 Let’s collaborate on **Android Development, Data Science, or Web Development**!  
 - 🌐 Passionate about **Tech, AI, and Open Source**.  
 - 💡 Fun Fact: *"Coffee ☕ + Code 💻 = Happiness!"*  
 - 🎮 I  love ~~gaming~~ Coding and hacking cool projects!
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/m.yt_gram/)
+- Welcome to my code, and yes, this Readme is **AI Generated**
 
   </td>
     <td>

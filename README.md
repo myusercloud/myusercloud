@@ -9,7 +9,7 @@
     <td>
       
 ### 🚀 About Me:
-- Hi, I’m **Harrizon Lucas**, @myusercloud 🌟  
+- Hi, I’m **Harrizon Lucas**, @myusercloud , I;m a Backend developer (MERN)
 - 🌱 Always eager to learn, build, and innovate!  
 - 👯 Let’s collaborate on **Android Development, Data Science, or Web Development**!  
 - 🌐 Passionate about **Tech, AI, and Open Source**.  

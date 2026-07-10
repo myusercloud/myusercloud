@@ -4,26 +4,39 @@
 
 </div>
 
-<table>
-  <tr>
-    <td>
-      
-### 🚀 About Me:
-- Hi, I’m **Harrizon Lucas**, @myusercloud , I'm a Backend developer (MERN)
-- 🌱 Always eager to learn, build, and innovate!  
-- 👯 Let’s collaborate on **Android Development, Data Science, or Web Development**!  
-- 🌐 Passionate about **Tech, AI, and Open Source**.  
-- 💡 Fun Fact: *"Coffee ☕ + Code 💻 = Happiness!"*  
-- 🎮 I  love ~~gaming~~ Coding and hacking cool projects!
-- Welcome to my code, and yes, this Readme is **AI Generated**
+<div align="center">
 
-  </td>
-    <td>
-      
-  ![Cool GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-      
-  </td>
-  </tr>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=BSc+Data+Science+%40+Uni+of+Nairobi+%F0%9F%8E%93;Solo+Founder+building+in+Nairobi+%F0%9F%87%B0%F0%9F%87%AA;Shipping+footballke.com+%E2%9A%BD;Building+GetPaid+AI+marketplace+%F0%9F%92%B0;Full-Stack+%7C+Data+%7C+AI)](https://git.io/typing-svg)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=myusercloud&color=a855f7&style=flat-square&label=Profile+Views)](https://github.com/myusercloud)
+[![GitHub followers](https://img.shields.io/github/followers/myusercloud?label=Followers&style=flat-square&color=a855f7)](https://github.com/myusercloud)
+
+</div>
+
+---
+
+<table width="100%">
+<tr>
+<td width="55%" valign="top">
+
+### 🧠 About Me
+
+- 🎓 BSc Data Science student **@ University of Nairobi** (Chiromo)
+- 🏗️ Self-funded solo founder building **two live platforms**
+- ⚽ Founder of **[footballke.com](https://footballke.com)** — Kenya's football data & content platform
+- 💼 Building **GetPaid** — an AI-powered work & talent marketplace with M-Pesa escrow
+- 🌍 Nairobi-based, building for the **African context**
+- 📊 Into **proprietary data, ML pipelines & product analytics**
+- 🚀 Stack: Next.js · Node.js · PostgreSQL · Python · Strapi · Cloudflare R2
+- ☕ Proof that a 19-year-old can ship real products
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+
+</td>
+</tr>
 </table>
 
 ---
@@ -49,7 +62,7 @@
 </td>
 <td width="50%">
 
-### 💰 Lustre & Luxe
+### 💰 GetPaid
 > AI-powered work & talent marketplace
 
 - 🤖 AI task categories: annotation, transcription, RLHF
@@ -139,7 +152,7 @@
 [ ] Take GetPaid to first paying user (M-Pesa live)
 [ ] Register Kaizen Digital as a Limited Company  
 [ ] Land first data/freelance client via Upwork/Contra
-[ ] Sophomore year at UoN — Data Science major
+[ ] 3rd year at UoN — Data Science major
 ```
 
 ---

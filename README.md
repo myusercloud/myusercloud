@@ -62,7 +62,7 @@
 </td>
 <td width="50%">
 
-### 💰 GetPaid
+### 💰 Lustre & Luxe
 > AI-powered work & talent marketplace
 
 - 🤖 AI task categories: annotation, transcription, RLHF
@@ -121,12 +121,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=myusercloud&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusercloud&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=myusercloud&show_icons=true&theme=tokyonight&count_private=true&border_radius=10&hide_border=true&include_all_commits=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=myusercloud&layout=compact&theme=tokyonight&border_radius=10&hide_border=true&langs_count=8" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=myusercloud&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=myusercloud&theme=tokyonight&hide_border=true&border_radius=10" height="165" />
 </div>
 
 ---
@@ -134,7 +134,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=myusercloud&theme=tokyonight&no-frame=true&row=1&margin-w=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=myusercloud&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7" />
 </div>
 
 ---
@@ -152,7 +152,7 @@
 [ ] Take GetPaid to first paying user (M-Pesa live)
 [ ] Register Kaizen Digital as a Limited Company  
 [ ] Land first data/freelance client via Upwork/Contra
-[ ] 3rd year at UoN — Data Science major
+[ ] Sophomore year at UoN — Data Science major
 ```
 
 ---

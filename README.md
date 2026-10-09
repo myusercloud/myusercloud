@@ -22,9 +22,8 @@
 ### 🧠 About Me
 
 - 🎓 BSc Data Science student **@ University of Nairobi** (Chiromo)
-- 🏗️ Self-funded solo founder building **two live platforms**
-- ⚽ Founder of **[footballke.com](https://footballke.com)** — Kenya's football data & content platform
-- 💼 Building **GetPaid** — an AI-powered work & talent marketplace with M-Pesa escrow
+- 🏗️ Self-funded solo founder building **live platforms**
+- ⚽ Founder of **[footballke.site](https://footballke.site)** — Kenya's football data & content platform
 - 🌍 Nairobi-based, building for the **African context**
 - 📊 Into **proprietary data, ML pipelines & product analytics**
 - 🚀 Stack: Next.js · Node.js · PostgreSQL · Python · Strapi · Cloudflare R2
@@ -65,8 +64,7 @@
 ### 💰 GetPaid
 > AI-powered work & talent marketplace
 
-- 🤖 AI task categories: annotation, transcription, RLHF
-- 🔐 PENDING → APPROVED → REJECTED workflow
+- 🤖 AI task categories for talents and jobs
 - 💳 M-Pesa escrow integration (IntaSend + Daraja)
 - 🎨 Flat design system across 14 routes
 - ✅ 23 Vitest tests shipped

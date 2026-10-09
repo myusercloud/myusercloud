@@ -160,9 +160,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-myusercloud-181717?style=for-the-badge&logo=github)](https://github.com/myusercloud)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN_HERE)
-[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x)](https://twitter.com/YOUR_HANDLE_HERE)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/YOUR_HANDLE_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harrizon-lucas-m27)
+[![Twitter/X](https://img.shields.io/badge/Twitter-Follow-000000?style=for-the-badge&logo=x)](https://twitter.com/HarryBron4)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/the.harrizon)
 
 </div>
 
